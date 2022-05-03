@@ -1,4 +1,4 @@
-module task.management.api/router
+module task.management.api
 
 go 1.18
 
